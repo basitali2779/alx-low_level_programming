@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- *main - check numbers whether positive, negative or zero
+ *main - print the last digit of the number stored in the variable n
  *Retrun: Always 0 (Success)
  */
 
