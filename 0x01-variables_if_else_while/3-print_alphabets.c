@@ -19,7 +19,7 @@ int main(void)
 
 	while (upper <= 'Z') /*print uppercase A-Z*/
 	{
-		putchar(upper);	
+		putchar(upper);
 		upper++;
 	}
 
