@@ -1,12 +1,9 @@
-#include  "main.h"
-
-
+#include "main.h"
 /**
- * main - prints putchar
- *
- * Return: Always 0
- */
-
+ * main - entry block
+ * @void: no argument
+ * Return: 0
+ **/
 int main(void)
 {
 	char ermias[] = "_putchar";
